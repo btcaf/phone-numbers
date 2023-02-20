@@ -1,1 +1,2 @@
-# phone-numbers
+A university assignment implementing a C library for storing phone number "redirections" (rules according to which certain prefixes should be swapped for other prefixes)
+using trie data structures. Documentation (in polish) can be generated with Doxygen.
